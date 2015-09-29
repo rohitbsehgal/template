@@ -1,1 +1,11 @@
-
+.content{
+  width:100%;
+  height:50%;
+  position: absolute;
+}
+.image{
+  width:100%;
+  height:50%;
+  position: absolute;
+  background-image: url("http://rohitbsehgal.github.io/code.jpg");
+}
