@@ -12,3 +12,8 @@
 h1{
   margin: 0px;
 }
+.header{
+  position: absolute;
+  color: white;
+  background-color:rgba(0,0,0,0.6);
+}
