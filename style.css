@@ -17,3 +17,8 @@ h1{
   color: white;
   background-color:rgba(0,0,0,0.6);
 }
+.header-links{
+  list-style-type: none;
+  display: inline;
+  padding-left: 20px;
+}
